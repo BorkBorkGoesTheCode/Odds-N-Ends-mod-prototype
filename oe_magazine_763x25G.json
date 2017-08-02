@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mp18mag",
+    "type": "MAGAZINE",
+    "name": "MP 18 50-round box magazine",
+    "//": "Provisional.",
+    "description": "A high-capacity box magazine for the MP 18.",
+    "weight": 1387,
+    "volume": 3,
+    "price": 7000,
+    "material": "steel",
+    "symbol": "#",
+    "color": "ltgray",
+    "ammo_type": "763x25G",
+    "capacity": 50,
+    "reliability": 7,
+    "reload_time": 120,
+    "flags": [ "MAG_BULKY" ]
+  },
+  {
+    "id": "mp18drum",
+    "type": "MAGAZINE",
+    "name": "MP 18 32-round drum magazine",
+    "description": "A 32-round drum magazine for the MP 18.",
+    "weight": 490,
+    "volume": 2,
+    "price": 2200,
+    "material": "steel",
+    "symbol": "#",
+    "color": "ltgray",
+    "ammo_type": "763x25G",
+    "capacity": 32,
+    "reliability": 8,
+    "reload_time": 140,
+    "flags": [ "MAG_COMPACT" ]
+  }
+]

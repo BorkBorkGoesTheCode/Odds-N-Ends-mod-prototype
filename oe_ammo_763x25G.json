@@ -1,0 +1,36 @@
+[
+  {
+    "id": "763_25g",
+    "type": "AMMO",
+    "name": "7.63x25 IG",
+    "description": "An early smokless powder cartridge, loaded with a 85 gr bullet.  It was derived from the 7.65 cartridge.",
+    "weight": 10,
+    "volume": 1,
+    "price": 3000,
+    "material": [ "brass", "powder" ],
+    "symbol": "=",
+    "color": "light_gray",
+    "count": 50,
+    "stack_size": 40,
+    "ammo_type": [ "763x25G", "762x25" ],
+    "casing": "762_25_casing",
+    "range": 14,
+    "damage": 23,
+    "pierce": 2,
+    "dispersion": 120,
+    "recoil": 545,
+    "effects": [ "COOKOFF" ]
+  },
+  {
+    "id": "reloaded_763_25g",
+    "copy-from": "763_25g",
+    "type": "AMMO",
+    "name": "reloaded 7.63x25 IG",
+    "proportional": {
+      "price": 0.7,
+      "damage": 0.9,
+      "pierce": 0.9,
+      "dispersion": 1.1
+    }
+  }
+]

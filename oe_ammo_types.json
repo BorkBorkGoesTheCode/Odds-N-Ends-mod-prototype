@@ -1,0 +1,14 @@
+[
+    {
+        "type": "ammunition_type",
+        "id": "763x25G",
+        "name": "7.63x25 IG",
+        "default": "763_25g"
+    },
+    {
+        "type": "ammunition_type",
+        "id": "270brit",
+        "name": ".270 British",
+        "default": "270brit"
+    }
+]
