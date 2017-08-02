@@ -25,6 +25,13 @@
   },
   {
     "type": "item_group",
+    "id": "ammo_rifle_milspec",
+    "items": [
+      [ "50bmg_HEIAP", 10 ]
+    ]
+  },
+  {
+    "type": "item_group",
     "id": "guns_pistol_obscure",
     "items": [
       [ "c96", 30 ]
@@ -64,8 +71,8 @@
     "type": "item_group",
     "id": "mags_obscure",
     "items": [
-      [ "bizonmag", 10 ],
-      [ "type64mag", 10 ]
+      [ "type64mag", 10 ],
+      [ "bizonmag", 10 ]
     ]
   },
   {
