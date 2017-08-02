@@ -40,29 +40,5 @@
 	"clip_size": 10,
 	"reload": 80,
 	"default_mods": [ "pistol_stock" ]
-  },
-  {
-    "id": "em-2",
-    "copy-from": "rifle_auto",
-    "type": "GUN",
-    "color": "dark_gray",
-    "name": "EM-2",
-    "name_plural": "EM-2",
-	"//": "24 in",
-    "description": "An experimental assault rifle designed by the british.",
-    "price": 2100000,
-    "material": [ "steel", "plastic" ],
-    "ammo": "270brit",
-    "weight": 3490,
-    "volume": 8,
-    "bashing": 12,
-    "to_hit": -1,
-    "dispersion": 100,
-    "durability": 9,
-    "valid_mod_locations": [[ "accessories", 4],[ "barrel", 1],[ "grip", 1],["magazine", 1],[ "mechanism", 4 ],[ "muzzle", 1 ],[ "rail", 1 ],[ "sights", 1 ],[ "underbarrel", 1 ]],
-    "magazines": [
-        [ "270brit", [ "em2mag" ] ],
-        [ "308", [ "m14mag" ] ]
-    ]
   }
 ]
