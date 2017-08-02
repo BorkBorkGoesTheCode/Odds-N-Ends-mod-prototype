@@ -64,8 +64,8 @@
     "type": "item_group",
     "id": "mags_obscure",
     "items": [
+      [ "bizonmag", 10 ],
       [ "type64mag", 10 ]
-      [ "bizonmag", 10 ]
     ]
   },
   {
