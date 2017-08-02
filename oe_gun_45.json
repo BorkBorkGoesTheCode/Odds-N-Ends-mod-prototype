@@ -5,7 +5,7 @@
     "type": "GUN",
     "name": "M86A1 infiltration weapon",
     "name_plural": "M86A1 infiltration weapon",
-    "description": "TODO",
+    "description": "A descendent of the successful De Lisle silenced carbine.",
     "weight": 3700,
     "volume": 5,
     "price": 87400,
