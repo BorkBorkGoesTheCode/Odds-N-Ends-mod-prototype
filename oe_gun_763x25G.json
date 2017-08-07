@@ -40,6 +40,6 @@
     "clip_size": 10,
     "reload": 80,
     "default_mods": [ "pistol_stock" ],
-    "valid_mod_locations": [ [ "accessories", 2 ], [ "barrel", 1 ], [ "grip", ], [ "mechanism", 2 ], [ "muzzle", 1 ], [ "sights", 1 ], [ "stock", 1 ] ]
+    "valid_mod_locations": [ [ "accessories", 2 ], [ "barrel", 1 ], [ "grip", 1 ], [ "mechanism", 2 ], [ "muzzle", 1 ], [ "sights", 1 ], [ "stock", 1 ] ]
   }
 ]
