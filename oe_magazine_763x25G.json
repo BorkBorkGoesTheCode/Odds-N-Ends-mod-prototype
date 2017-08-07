@@ -23,7 +23,7 @@
     "name": "MP 18 32-round drum magazine",
     "description": "A 32-round drum magazine for the MP 18.",
     "weight": 490,
-    "volume": 2,
+    "volume": 4,
     "price": 2200,
     "material": "steel",
     "symbol": "#",
