@@ -30,7 +30,7 @@
     "color": "ltgray",
     "ammo_type": "763x25G",
     "capacity": 32,
-    "reliability": 8,
+    "reliability": 5,
     "reload_time": 140,
     "flags": [ "MAG_COMPACT" ]
   }
