@@ -8,7 +8,7 @@
     "description": "TODO",
     "weight": 1300,
     "volume": 3,
-    "price": 100000,
+    "price": 200000,
     "to_hit": -2,
     "bashing": 10,
     "material": [ "steel", "plastic" ],
