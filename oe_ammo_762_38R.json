@@ -1,0 +1,52 @@
+[
+  {
+    "id": "762_38R",
+    "type": "AMMO",
+    "name": "7.62x38R",
+    "//": "98 gr, 850 ft/s, 213 joules.",
+    "description": "A cartridge designed for the M1895 Nagant pistol.",
+    "weight": 10,
+    "volume": 1,
+    "price": 5000,
+    "material": [ "brass", "powder" ],
+    "symbol": "=",
+    "color": "light_gray",
+    "count": 50,
+    "stack_size": 50,
+    "ammo_type": [ "762_38R" ],
+    "casing": "762_38R_casing",
+    "range": 13,
+    "damage": 14,
+    "dispersion": 70,
+    "recoil": 213,
+    "effects": [ "COOKOFF" ]
+  },
+  {
+    "id": "handloaded_762_38R",
+    "copy-from": "762_38R",
+    "type": "AMMO",
+    "name": "handloaded 7.62x38R",
+    "//": "97 gr. FMC, 891 ft/s",
+    "description": "A cartridge designed for the M1895 Nagant pistol.  It has been handloaded to something resembling original Russian military standard.",
+    "weight": 10,
+    "volume": 1,
+    "price": 3500,
+    "count": 50,
+    "stack_size": 50,
+    "range": 13,
+    "damage": 18,
+    "pierce": 1,
+    "dispersion": 90,
+    "recoil": 340,
+    "effects": [ "COOKOFF", "RECYCLED" ]
+  },
+  {
+    "id": "762_38R_casing",
+    "copy-from": "casing",
+    "type": "GENERIC",
+    "name": "7.62x38R casing",
+    "description": "An empty casing from a 7.62x38R round.  You don't think it can be reloaded again without special tools.",
+    "weight": 3,
+    "volume": "4ml"
+  }
+]

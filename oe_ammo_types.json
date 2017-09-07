@@ -1,6 +1,12 @@
 [
     {
         "type": "ammunition_type",
+        "id": "762_38R",
+        "name": "7.62x38R",
+        "default": "762_38R"
+    }
+    {
+        "type": "ammunition_type",
         "id": "763x25G",
         "name": "7.63x25 IG",
         "default": "763_25g"
