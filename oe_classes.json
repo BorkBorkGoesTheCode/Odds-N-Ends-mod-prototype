@@ -47,10 +47,10 @@
         "ident": "navy_frogman",
         "name": "Frogman",
         "description": "TODO",
-        "points": 7,
+        "points": 10,
         "skills": [
             {
-                "level": 3,
+                "level": 2,
                 "name": "gun"
             },
             {
@@ -58,17 +58,21 @@
                 "name": "rifle"
             },
             {
-                "level": 2,
-                "name": "stabbing"
-            },
-            {
-                "level": 4,
+                "level": 3,
                 "name": "survival"
             },
             {
                 "level": 4,
+                "name": "swimming"
+            },
+            {
+                "level": 3,
                 "name": "traps"
             }
+        ],
+        "traits": [
+            "GOODCARDIO",
+            "OUTDOORSMAN"
         ],
         "items": {
             "both": {
@@ -76,6 +80,7 @@
                     "wetsuit_earplugs",
                     "brospec_goggles",
                     "rebreather_navy",
+                    "rebreather_filter",
                     "navy_wetsuit",
                     "diving_watch",
                     "wetsuit_gloves",
