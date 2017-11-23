@@ -1,24 +1,4 @@
 [
-  {
-    "id": "mil_theatermap",
-    "type": "GENERIC",
-    "category": "books",
-    "name": "military theater map",
-    "description": "This is a detailed description of the region created from intel acquired through universal intrusive surveillance.  It includes information about local topography, climate, demographics, and faction estimates.",
-    "weight": 50,
-    "volume": 1,
-    "price": 1000000,
-    "to_hit": -1,
-    "material": "plastic",
-    "symbol": ";",
-    "color": "green",
-    "use_action": {
-      "type": "reveal_map",
-      "radius": 180,
-      "terrain": [ "field", "forest", "forest_water", "river_center", "river", "pond_field", "pond_forest", "pond_swamp", "mine_entrance", "cave", "cave_rat", "park", "farm", "orchard", "hiway", "road", "bridge", "sub_station", "pwr_sub_s", "pool", "public_works", "s_gun", "mil_surplus", "prison", "fema_entrance", "shelter", "evac_center", "police", "bunker", "outpost", "silo", "s_lot", "house", "hotel_tower", "hospital", "school", "bank", "religious_cemetery", "church", "cathedral", "s_restaurant_coffee", "s_restaurant", "s_restaurant_fast", "s_pharm", "s_hardware", "office_doctor", "s_grocery", "s_hardware", "s_electronics", "pawn", "furniture", "abstorefront", "s_sports", "s_liquor", "s_clothes", "s_library", "s_bookstore", "s_teashop", "bar", "s_pizza_parlor", "s_garage", "dirtlot", "megastore", "s_gas" ],
-      "message": "You gain detailed information about the surrounding area."
-    }
-  },
     {
         "id": "brospec_goggles",
         "type": "TOOL_ARMOR",
