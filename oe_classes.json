@@ -4,7 +4,16 @@
         "ident": "powered_infantry",
         "name": "Powered Armor Infantry",
         "description": "TODO",
-        "points": 35,
+        "points": 20,
+        "CBMs": [
+            "bio_dis_shock",
+            "bio_dis_acid",
+            "bio_power_weakness",
+            "bio_blood_anal",
+            "bio_blood_filter",
+            "bio_power_storage_mkII",
+            "bio_batteries"
+        ],
         "skills": [
             {
                 "level": 5,
@@ -32,9 +41,7 @@
                 "items": [
                     "power_armor_helmet_basic",
                     "power_armor_basic",
-                    "power_armor_frame",
-                    "battery",
-                    "UPS_off"
+                    "power_armor_frame"
                 ],
                 "entries": [
                     { "item": "rm88_battle_rifle", "ammo-item": "8mm_fmj", "charges": 100, "contents-item": [ "grip", "red_dot_sight", "shoulder_strap" ] }
