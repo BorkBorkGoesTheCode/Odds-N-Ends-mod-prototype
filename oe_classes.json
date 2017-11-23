@@ -44,7 +44,7 @@
                     "power_armor_frame"
                 ],
                 "entries": [
-                    { "item": "rm88_battle_rifle", "ammo-item": "8mm_fmj", "charges": 100, "contents-item": [ "grip", "red_dot_sight", "shoulder_strap" ] }
+                    { "item": "rm88_battle_rifle", "ammo-item": "8mm_fmj", "charges": 51, "contents-item": [ "grip", "red_dot_sight", "shoulder_strap" ] }
                 ]
             }
         }
