@@ -84,8 +84,8 @@
         },
         "covers" : ["MOUTH"],
         "warmth" : 10,
-        "environmental_protection" : 10,
-        "encumbrance" : 40,
+        "environmental_protection" : 11,
+        "encumbrance" : 25,
         "coverage" : 100,
         "material_thickness" : 2
     },
@@ -106,7 +106,7 @@
             "msg": "Your %s deactivates.",
             "target": "rebreather_navy"
         },
-        "environmental_protection" : 16,
+        "environmental_protection" : 18,
         "encumbrance" : 20
     },
     {
