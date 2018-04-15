@@ -49,6 +49,7 @@
     "id": "guns_smg_obscure",
     "items": [
       [ "bizon203", 100 ],
+      [ "mp18", 50 ],
       [ "type64smg", 100 ]
     ]
   },
@@ -66,6 +67,8 @@
     "items": [
       [ "763x25G_clip", 10 ]
       [ "type64mag", 10 ],
+      [ "mp18mag", 10 ]
+      [ "mp18bigmag", 10 ]
       [ "bizonmag", 10 ]
     ]
   },
