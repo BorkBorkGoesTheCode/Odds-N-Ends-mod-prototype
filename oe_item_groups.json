@@ -88,5 +88,12 @@
     "items": [
       ["m86a1mag", 20]
     ]
+  },
+  {
+    "type": "item_group",
+    "id": "mags_obscure",
+    "items": [
+      ["763x25G_clip", 10]
+    ]
   }
 ]
