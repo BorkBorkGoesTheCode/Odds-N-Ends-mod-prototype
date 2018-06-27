@@ -13,7 +13,7 @@
     "bashing": 12,
     "material": [ "steel", "plastic" ],
     "ammo": "45",
-    "dispersion": 90,
+    "dispersion": 150,
     "durability": 9,
     "built_in_mods": [ "integral_suppressor" ],
     "magazines": [ [ "45", [ "m86a1mag", "usp45mag" ] ] ],
