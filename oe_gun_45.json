@@ -32,7 +32,6 @@
     "color": "dark_gray",
     "location": "muzzle",
     "mod_targets": [ "rifle" ],
-    "damage_modifier": -1,
     "handling_modifier": 1,
     "loudness_modifier": -80,
     "flags": [ "IRREMOVABLE" ]
