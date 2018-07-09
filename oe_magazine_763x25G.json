@@ -11,7 +11,7 @@
     "material": "steel",
     "symbol": "#",
     "color": "light_gray",
-    "ammo_type": "762R",
+    "ammo_type": "763x25G",
     "capacity": 10,
     "flags": [ "SPEEDLOADER" ]
   },
